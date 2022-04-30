@@ -23,5 +23,6 @@ module moduleName (
     1010
     00000
     111111
+    2222222
 
 endmodule
